@@ -7,8 +7,11 @@ Recently I've been building out-of-distribution anomaly detection for autonomous
 ### What I work with
 
 **Robotics:** ROS2, Nav2, SLAM, motion planning, classical + optimal control
+
 **ML/RL:** PyTorch, reinforcement learning (SAC/TD3/PPO, HER), multimodal sensor fusion
+
 **Embedded:** ESP32, custom PCB design, real-time systems
+
 **Languages:** Python, C++
 
 ### A bit of background
@@ -18,7 +21,9 @@ Before grad school I built an ML part-replacement prediction pipeline at Mercede
 ### What I'm up to now
 
 - 🔭 Building a robotics/AI portfolio of production-quality projects
+
 - 🤖 Deepening work in RL for manipulation and robust perception for autonomy
+
 - 💬 Open to robotics and ML engineering roles
 
 📍 Boston, MA
